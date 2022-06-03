@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eka110
 - 👀 I’m interested in programing, circular economy and philosophy
 - 🌱 I’m currently learning to write clean code
-- 💞️ I’m looking to collaborate on peojts that are change oriented
+- 💞️ I’m looking to collaborate on peojects that are change oriented
 - 📫 Reach me via Linkdin
 
 <!---
